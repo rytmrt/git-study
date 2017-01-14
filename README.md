@@ -1,4 +1,4 @@
-# git-study
+# git-study コンフリクト
 
 テスト　
 
